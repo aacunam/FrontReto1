@@ -1,0 +1,25 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: #17b855;
+    height: 100vh;
+    font-family: 'Times New Roman', 'serif';
+    font-size: 16px;  
+}
+p{
+    text-align:center;
+}
+#cf {
+    background-color: #503181;
+    margin-top: 0 px;
+}
+
+#login .container-fluid #login-row #login-column #login-box {
+    margin-top: 10px;
+    max-width: 600px;
+    height: 420px;
+    border: 1px solid #9c9c9c;
+    background-color: #eaeaea;
+  }
